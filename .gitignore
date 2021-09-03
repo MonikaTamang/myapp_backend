@@ -2,3 +2,6 @@ __pycache__
 db.sqlite3
 *.jpg
 *.png
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
